@@ -14,6 +14,7 @@ You can run this code locally by downloading all of the files here to a single d
 - [ ] Make Pacmen and ghosts decrease in size when the bounce off the walls
 - [ ] Write unit tests
 - [ ] Add a fun background to the game board
+- [ ] Add "Stop game" button to stop the setTimeout function
 
 ## License Info
 This project is licensed under the [MIT License](LICENSE).
