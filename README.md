@@ -4,7 +4,7 @@
 This simple "Pacman" game was an assignment for the MIT xPRO Professional Certificate in Coding: Full Stack Development with MERN course. This project uses Javascript to produce Pacman-like images that will move across the viewer's screen.
 
 ## How to Run
-You can run this code locally by downloading all of the files here to the single directory, using the same file structure. Open the `index.html` file in a web browser to load the game.
+You can run this code locally by downloading all of the files here to a single directory, using the same file structure. Open the `index.html` file in a web browser to load the game.
 
 ## Roadmap: Planned Improvements
 - [ ] Update Pacman's movement so that his mouth opens and closes as he moves
